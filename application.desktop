@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Install flatpak package
+Comment=Install flatpak package from .flatref
+Exec=/usr/bin/flatref-install %f
+Icon=application-vnd-flatpak
+Terminal=true
+Type=Application
+MimeType=application/vnd.flatpak.ref;
+NoDısplay=true
